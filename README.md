@@ -114,7 +114,7 @@ User receives feedback and can leave a review.
 1. Index page 
 <img width="1917" height="965" alt="Image" src="https://github.com/user-attachments/assets/ea96c001-7343-4da4-8932-6dc508ae248c" />
 
-2. Uploading Image
+2. Image Uploaded
 <img width="1825" height="960" alt="image" src="https://github.com/user-attachments/assets/e984aefa-2ee6-40cd-a88c-350113ace701" />
 
 3. ML Predicted Image
