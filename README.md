@@ -120,6 +120,9 @@ User receives feedback and can leave a review.
 3. ML Predicted Image
 <img width="1409" height="856" alt="image" src="https://github.com/user-attachments/assets/ca0cd9aa-dd69-4bcb-b759-24e0c2f2ed5f" />
 
+## Watch Video Here
+[Click Here](https://drive.google.com/file/d/129sqwPOc7jVUSCDL-sAjvNVL7j8YLEra/view?usp=sharing)
+
 🛠️ Future Enhancements
 🔬 Expand dataset for more accurate predictions
 
@@ -128,6 +131,10 @@ User receives feedback and can leave a review.
 🧪 Add AR/VR module for interactive learning
 
 📱 Build mobile-friendly PWA
+
+
+## Watch Video Here
+[Click Here](https://drive.google.com/file/d/129sqwPOc7jVUSCDL-sAjvNVL7j8YLEra/view?usp=sharing)
 
 🙌 Credits
 Project by [Shreesum Manandhar]
