@@ -58,8 +58,9 @@ herbisite/
 
 ## 📦 Setup Instructions
 
-### 1. Clone the Repository
+
 ```bash
+1. Clone the Repository
 git clone https://github.com/your-username/herbisite.git
 cd herbisite
 2. Install Node.js Dependencies
@@ -97,6 +98,7 @@ node server.js
 8. Open in Browser
 http://localhost:3000/
 
+```
 
 🧪 Example Use Case
 User signs up and verifies email using OTP.
@@ -110,7 +112,7 @@ User receives feedback and can leave a review.
 📸 Screenshots
 
 1. Index page 
-<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/1af91ca4-afbb-4d11-b2d0-e8ea3a184ca6" />
+<img width="1917" height="965" alt="Image" src="https://github.com/user-attachments/assets/ea96c001-7343-4da4-8932-6dc508ae248c" />
 
 2. Uploading Image
 <img width="1825" height="960" alt="image" src="https://github.com/user-attachments/assets/e984aefa-2ee6-40cd-a88c-350113ace701" />
