@@ -109,6 +109,8 @@ Flask server returns plant name, medicinal use, and details.
 
 User receives feedback and can leave a review.
 
+---
+
 📸 Screenshots
 
 1. Index page 
@@ -123,6 +125,8 @@ User receives feedback and can leave a review.
 ## Watch Video Here
 [Click Here](https://drive.google.com/file/d/129sqwPOc7jVUSCDL-sAjvNVL7j8YLEra/view?usp=sharing)
 
+---
+
 🛠️ Future Enhancements
 🔬 Expand dataset for more accurate predictions
 
@@ -132,9 +136,7 @@ User receives feedback and can leave a review.
 
 📱 Build mobile-friendly PWA
 
-
-## Watch Video Here
-[Click Here](https://drive.google.com/file/d/129sqwPOc7jVUSCDL-sAjvNVL7j8YLEra/view?usp=sharing)
+---
 
 🙌 Credits
 Project by [Shreesum Manandhar]
