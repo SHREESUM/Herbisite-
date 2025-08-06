@@ -33,15 +33,16 @@ Identify Medicinal Plant Using ML
 ## 🗂️ Project Structure
 
 herbisite/
-├── public/ # flask_server/
-            ├── app.py # Flask ML API
-            Frontend (HTML, CSS, JS)
-├── server.js # Node.js backend server
-├── sendotp.py # Python script for sending OTP emails
-│ └── model/ # Pretrained ML model files
-├── uploads/ # Uploaded image storage
-├── database/ # SQL files or connection config
-
+├── public/                      # Frontend and ML-related files
+│   ├── index.html               # Homepage (example)
+│   ├── app.py                   # Flask ML API
+│   ├── model/                   # Pretrained ML model files
+│   └── ...                      # Other frontend assets (CSS, JS, etc.)
+├── server.js                    # Node.js backend server
+├── sendotp.py                   # Python script for sending OTP emails
+├── uploads/                     # Uploaded image storage
+├── database/                    # SQL files or DB connection config
+└── README.md                    # Project documentation
 
 ---
 
