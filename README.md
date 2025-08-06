@@ -34,15 +34,25 @@ Identify Medicinal Plant Using ML
 
 herbisite/
 ├── public/                      # Frontend and ML-related files
-│   ├── index.html               # Homepage (example)
-│   ├── app.py                   # Flask ML API
-│   ├── model/                   # Pretrained ML model files
-│   └── ...                      # Other frontend assets (CSS, JS, etc.)
+
+  │   ├── index.html               # Homepage (example)
+
+  │   ├── app.py                   # Flask ML API
+
+  │   ├── model/                   # Pretrained ML model files
+
+  │   └── ...                      # Other frontend assets (CSS, JS, etc.)
+
 ├── server.js                    # Node.js backend server
+
 ├── sendotp.py                   # Python script for sending OTP emails
+
 ├── uploads/                     # Uploaded image storage
+
 ├── database/                    # SQL files or DB connection config
+
 └── README.md                    # Project documentation
+
 
 ---
 
@@ -57,7 +67,6 @@ npm install
 3. Install Python & Flask Requirements
 cd public
 pip install -r requirements.txt
-python app.py
 
 4. Setup MySQL Database
 Open MySQL Workbench
